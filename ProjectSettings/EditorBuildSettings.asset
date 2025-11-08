@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuMulti.unity
+    guid: f6e84504501f0c04e9987c3590aeabb5
+  - enabled: 1
+    path: Assets/Scenes/ChessGameMulti.unity
+    guid: 7da37631d6617b548acae9bcf7356b50
+  - enabled: 1
+    path: Assets/Scenes/Offline/ChessGameVS_AI.unity
+    guid: 3934c1f15d8f7f248af34c66dac4f243
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
